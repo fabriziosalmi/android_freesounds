@@ -1,0 +1,39 @@
+   <style>
+#connectivity {
+  margin: 0 auto;
+  font-family: Helvetica, Arial, Verdana;
+  font-size: 0.8em;
+border-radius: 25px;
+}
+
+#status {
+  padding: 5px;
+  color: #fff;
+  background: #ccc;
+    border-radius: 25px;
+}
+
+#status.fail {
+  background: #c00;
+    border-radius: 25px;
+}
+
+#status.success {
+  background: #0c0;
+  border-radius: 25px;
+}
+
+#status.offline {
+  background: #c00;
+    border-radius: 25px;
+}
+
+#status.online {
+  background: #0c0;
+  border-radius: 25px;
+}
+
+.mdl-card-connectivity {
+    min-height: 122px;
+}
+    </style>

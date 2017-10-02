@@ -1,0 +1,24 @@
+.mdl-color--grey-100 {
+    background-color: #303030 !important;
+}
+
+.mdl-demo .mdl-card {
+    background-color: #424242;
+}
+
+.mdl-color-text--grey-700 {
+    color: #e0e0e0 !important;
+}
+
+.mdl-demo .mdl-card__actions a {
+    color: rgb(33,150,243);
+}
+
+h4 {
+    color: white;
+}
+
+a {
+color: yellow;
+text-decoration: none;
+}
